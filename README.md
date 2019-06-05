@@ -19,13 +19,6 @@ WordPress slideIT  : It is a simple tool for creating carousel for your website.
 
 ### More Features are on its way...!
 
-### New feature:
-https://saimonk.sgedu.site/sk/
-
-### Tutorial:
-https://saimonk.sgedu.site/sk/
-
-
 ### The Plugin Features:
 
 * Create Sliding Effects
