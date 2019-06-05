@@ -1471,7 +1471,7 @@ body {
     }
 
     #slides {
-      display: none
+      display: none;
     }
 
     #slides .slidesjs-navigation {
@@ -1479,18 +1479,19 @@ body {
     }
 
     #slides .slidesjs-previous {
-      margin-right: 5px;
+      margin-right: 0px;
       float: left;
     }
 
     #slides .slidesjs-next {
-      margin-right: 5px;
-      float: left;
+      margin-right: 0px;
+      float: right;
     }
 
     .slidesjs-pagination {
-      margin: 6px 0 0;
-      float: right;
+      margin: 6px 0 0 0 ;
+      padding-left: 45%;
+      float: left;
       list-style: none;
     }
 
@@ -1539,7 +1540,8 @@ body {
     }
 
     .container {
-      margin: 0 auto
+      margin: 0 auto;
+
     }
 
     /* For tablets & smart phones */
@@ -1549,7 +1551,7 @@ body {
         padding-right: 20px;
       }
       .container {
-        width: 400px
+        width: 400px;
       }
     }
 
