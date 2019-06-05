@@ -42,14 +42,14 @@ https://saimonk.sgedu.site/sk/
 
 ### == Frequently Asked Questions ==
 
-*Q: After the upgrade, all styles are broken
-*R: Just go to the edit page of the elements and update any post/element
+* Q: After the upgrade, all styles are broken
+* R: Just go to the edit page of the elements and update any post/element
 
-*Q: Where can I see demo?
-*R: https://saimonk.sgedu.site/sk/
+* Q: Where can I see demo?
+* R: https://saimonk.sgedu.site/sk/
 
-*Q: Documentation?
-*R: https://saimonk.sgedu.site/sk/
+* Q: Documentation?
+* R: https://saimonk.sgedu.site/sk/
 
 
 ### == Changelog ==
